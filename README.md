@@ -7,4 +7,4 @@ Two Directories:
 * share - for users to share social media with to increase visibility
 * update - for users to get more information from Kickstarter
 
-Forked from somawater's [kickstarter repo](https://github.com/somawater/kickstarter).
+Credits to somawater's for allowing use of their [kickstarter repo](https://github.com/somawater/kickstarter).
