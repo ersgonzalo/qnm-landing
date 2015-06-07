@@ -23,7 +23,7 @@ $(function() {
     
     $('.twitter').on('click', function() {
         var loc = encodeURIComponent('http://bit.ly/somawater'),
-                title = "Beautifully innovative all-natural water filters by Soma — ",
+                title = "Beautifully innovative all-natural water filters by Soma — ",//Queen
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "http://kck.st/TH0NAN";
+        window.location.href = "http://kck.st/TH0NAN"; //will need to replace once Kickstarter comes out
     });
     
 });
